@@ -1,0 +1,23 @@
+{
+    "apps": [
+        {
+            "serverURL": "http://localhost:1337/parse",
+            "appId": "myAppId",
+            "masterKey": "master",
+            "clientKey": "myKey",
+            "javascriptKey": "myJavascriptKey",
+            "restKey": "myRestKey",
+            "appName": "My Parse.Com App"
+        }
+    ],
+    "users": [
+        {
+            "user": "hamili",
+            "pass": "h@MILI61"
+        },
+        {
+            "user": "jawadabbasnia",
+            "pass": "#!jawad#!5013"
+        }
+    ]
+}
